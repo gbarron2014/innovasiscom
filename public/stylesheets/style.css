@@ -1,0 +1,26 @@
+#main {
+    background-color: #f0fff0;
+}
+
+.common {
+    background-color: white;
+    border: 1px solid blueviolet;
+}
+
+#contenido {
+    margin-top: 50px;
+    min-height: 500px;
+}
+
+#footer {
+    margin-top: 5px;
+    text-align: center;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
